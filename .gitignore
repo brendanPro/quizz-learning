@@ -29,3 +29,6 @@ out/
 coverage/
 .env.*
 !.env.example
+
+.tmp/
+*.docx
